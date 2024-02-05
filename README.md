@@ -16,5 +16,8 @@ Kali Linux e Setoolkit
 - URL para clonar: https://www.google.com
 
 Como a maioria dos navegadores já tem alguma proteção contra phising, foi utilizado máquina virtual do Windows 7, para conseguir acessar a página clonada.
+<br>
+<img src="https://github.com/pedromasca/desafio_Phising-DIO/blob/main/win7.png" >
 
 Após o acesso, o usuário informa os dados de login e senha e os mesmos aparecem para o atacante (criador do phising) na tela do Kali Linux.
+<img src="https://github.com/pedromasca/desafio_Phising-DIO/blob/main/Captura%20de%20tela%20-%20DesafioDIOPhishing.png">
